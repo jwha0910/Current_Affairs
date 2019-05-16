@@ -13,7 +13,7 @@ AgTech는 Agriculture(농업)과 Technology(기술)을 합친 합성어입니다
 <br><br>
 많은 분들이 아시다시피 우리나라에서 농사를 지으시는 분들은 줄어들고 있으며 고령농의 비율은 꾸준히 증가하고 있습니다. 1995년에는 16.2%였던 고령농 비율이 2015년에는 38.4% 까지 증가한 것을 볼 수 있습니다.
 <br>
-[![Vue](https://postfiles.pstatic.net/MjAxOTA0MDFfMjQg/MDAxNTU0MTAzMTc1MDc0._0EyCDxRLaQxF7LPSvcIn49J3rq1o9XpSp--VMoCfo8g.kZlS3akFihfxe2WlJglJPRLVpDnXTpZxnZ_oSJfFYsgg.JPEG.jwha0910/1.jpg?type=w773)]
+[![Vue](https://postfiles.pstatic.net/MjAxOTA0MDFfMjQg/MDAxNTU0MTAzMTc1MDc0._0EyCDxRLaQxF7LPSvcIn49J3rq1o9XpSp--VMoCfo8g.kZlS3akFihfxe2WlJglJPRLVpDnXTpZxnZ_oSJfFYsgg.JPEG.jwha0910/1.jpg?type=w773)](고령농 비율)
 <br><br>
 징둥닷컴 관계자는 "식물 공장은 일년에 20번 넘게 수확할 수 있는데, 이는 같은 크기의 일반 농장 5배 수준"이라고 말을 했고, 아이언옥스 CEO는 "로봇들이 24시간 동안 일할 수 있어 기존 농장의 30분의 1에 불과한 면적에서 동일한 양의 작물을 생산할 수 있다"라고 말을 했습니다.
 <br><br>
